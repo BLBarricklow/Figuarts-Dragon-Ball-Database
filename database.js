@@ -1,5 +1,5 @@
-const database = {
-    "piccolo" : {
+const database = [
+    {
         "name" : "Piccolo",
         "price" : "$29.99",
         "releaseNum" : 1,
@@ -8,7 +8,7 @@ const database = {
         "tamashiiLink" : "https://tamashiiweb.com/item/1172/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-piccolo-sh-figuarts-action-figure/ba59914"
     },
-    "super saiyan son goku" : {
+    {
         "name" : "Super Saiyan Son Goku",
         "price" : "$26.99",
         "releaseNum" : 2,
@@ -17,7 +17,7 @@ const database = {
         "tamashiiLink" : "https://tamashiiweb.com/item/1216/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-super-saiyan-goku-sh-figuarts-action-figure/ba59912"
     },
-    "super saiyan son gohan" : {
+    {
         "name" : "Super Saiyan Son Gohan",
         "price" : "$29.99",
         "releaseNum" : 3,
@@ -26,7 +26,7 @@ const database = {
         "tamashiiLink" : "https://tamashiiweb.com/item/1216/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-son-gohan-sh-figuarts-action-figure/ba61922"
     },
-    "super saiyan son goku sdcc 2011" : {
+    {
         "name" : "Super Saiyan Son Goku (Special Color Edition)",
         "price" : "$35",
         "releaseNum" : 4,
@@ -35,7 +35,7 @@ const database = {
         "tamashiiLink" : "Not Available",
         "eeLink" : "Not Available"
     },
-    "super saiyan vegeta" : {
+    {
         "name" : "Super Saiyan Vegeta",
         "price" : "$39.99",
         "releaseNum" : 5,
@@ -44,7 +44,7 @@ const database = {
         "tamashiiLink" : "Not Available",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-super-saiyan-vegeta-sh-figuarts-figure/ba62466"
     },
-    "trunks" : {
+    {
         "name" : "Trunks",
         "price" : "$48.99",
         "releaseNum" : 6,
@@ -53,4 +53,4 @@ const database = {
         "tamashiiLink" : "https://tamashiiweb.com/item/11548/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-trunks-sh-figuarts-action-figure/ba73944"
     }
-}
+]
