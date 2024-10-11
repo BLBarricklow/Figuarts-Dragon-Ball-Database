@@ -1,3 +1,26 @@
+.figure-info {
+    width: clamp(300px, 60%, 1200px);
+    margin: auto;
+    background-color: antiquewhite;
+}
+
 .info-list {
     list-style-type: none;
+}
+
+.img-container {
+    border: 2px, solid, red;
+    display: inline-block;
+    width: 50%;
+}
+
+.main-img {
+    width: 100%;
+}
+
+.info-container {
+    border: 2px, solid, blue;
+    display: inline-block;
+    background-color: lightgrey;
+    width: 40%;
 }
