@@ -3,7 +3,7 @@ const database = [
         "name" : "Piccolo",
         "price" : "$29.99",
         "releaseNum" : 1,
-        "releaseType" : "Retail",
+        "releaseType" : "Retail Product",
         "releaseDate" : "November 21 2009",
         "tamashiiLink" : "https://tamashiiweb.com/item/1172/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-piccolo-sh-figuarts-action-figure/ba59914"
@@ -12,7 +12,7 @@ const database = [
         "name" : "Super Saiyan Son Goku",
         "price" : "$26.99",
         "releaseNum" : 2,
-        "releaseType" : "Retail",
+        "releaseType" : "Retail Product",
         "releaseDate" : "January 23 2010",
         "tamashiiLink" : "https://tamashiiweb.com/item/1216/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-super-saiyan-goku-sh-figuarts-action-figure/ba59912"
@@ -21,7 +21,7 @@ const database = [
         "name" : "Super Saiyan Son Gohan",
         "price" : "$29.99",
         "releaseNum" : 3,
-        "releaseType" : "Retail",
+        "releaseType" : "Retail Product",
         "releaseDate" : "July 17 2010",
         "tamashiiLink" : "https://tamashiiweb.com/item/1216/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-son-gohan-sh-figuarts-action-figure/ba61922"
@@ -30,7 +30,7 @@ const database = [
         "name" : "Super Saiyan Son Goku (Special Color Edition)",
         "price" : "$35",
         "releaseNum" : 4,
-        "releaseType" : "Event",
+        "releaseType" : "2011 SDCC Event Exclusive",
         "releaseDate" : "July 21 2011",
         "tamashiiLink" : "Not Available",
         "eeLink" : "Not Available"
