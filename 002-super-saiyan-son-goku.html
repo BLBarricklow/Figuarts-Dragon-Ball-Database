@@ -3,17 +3,25 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" contents="width=device-width, initial-scale=1.0">
-        <title>Super Saiyan Son Goku - S.H.Figuarts</title>
+        <title>Super Saiyan Son Goku - S.H.Figuarts Dragon Ball</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
+        <div id="itemNum" hidden>1</div>
         <nav>
             <a href="index.html">Home Page</a>
         </nav>
-        <h1>Super Saiyan Son Goku</h1>
-        <img src="assets/images/super-saiyan-son-goku/super-goku-main.jpg">
-        <ul class="info-list">
-
-        </ul>
+        <main class="figure-info">
+            <h1 id="itemName">Super Saiyan Son Goku</h1>
+            <div class="img-container">
+                <img class="main-img" src="assets/images/super-saiyan-son-goku/super-goku-main.jpg" alt="The Super Saiyan Son Goku figure standing in a neutral pose with arms to the sides">
+            </div>
+            <div class="info-container">
+                <ul id="info-list" class="info-list">
+                </ul>
+            </div>
+        </main>
     </body>
+    <script src="database.js"></script>
+    <script src="infoListFiller.js"></script>
 </html>
