@@ -25,6 +25,11 @@ h1 {
     list-style-type: none;
 }
 
+.info-list li {
+    font-size: 1.1rem;
+    margin: 5px 0;
+}
+
 .img-container {
     border: 2px solid red;
     width: 45%;

@@ -4,7 +4,8 @@ const database = [
         "price" : "$29.99",
         "releaseNum" : 1,
         "releaseType" : "Retail Product",
-        "releaseDate" : "November 21 2009",
+        "releaseMonth" : "November",
+        "releaseYear" : "2009",
         "tamashiiLink" : "https://tamashiiweb.com/item/1172/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-piccolo-sh-figuarts-action-figure/ba59914"
     },
@@ -13,7 +14,8 @@ const database = [
         "price" : "$26.99",
         "releaseNum" : 2,
         "releaseType" : "Retail Product",
-        "releaseDate" : "January 23 2010",
+        "releaseMonth" : "January",
+        "releaseYear" : "2010",
         "tamashiiLink" : "https://tamashiiweb.com/item/1216/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-super-saiyan-goku-sh-figuarts-action-figure/ba59912"
     },
@@ -22,7 +24,8 @@ const database = [
         "price" : "$29.99",
         "releaseNum" : 3,
         "releaseType" : "Retail Product",
-        "releaseDate" : "July 17 2010",
+        "releaseMonth" : "July",
+        "releaseYear" : "2010",
         "tamashiiLink" : "https://tamashiiweb.com/item/1216/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-son-gohan-sh-figuarts-action-figure/ba61922"
     },
@@ -31,7 +34,8 @@ const database = [
         "price" : "$35",
         "releaseNum" : 4,
         "releaseType" : "2011 SDCC Event Exclusive",
-        "releaseDate" : "July 21 2011",
+        "releaseDate" : "July",
+        "releaseYear" : "2011",
         "tamashiiLink" : "Not Available",
         "eeLink" : "Not Available"
     },
@@ -40,7 +44,8 @@ const database = [
         "price" : "$39.99",
         "releaseNum" : 5,
         "releaseType" : "Premium Bandai",
-        "releaseDate" : "December 2011",
+        "releaseMonth" : "December",
+        "releaseYear" : "2011",
         "tamashiiLink" : "Not Available",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-super-saiyan-vegeta-sh-figuarts-figure/ba62466"
     },
@@ -49,7 +54,8 @@ const database = [
         "price" : "$48.99",
         "releaseNum" : 6,
         "releaseType" : "Premium Bandai",
-        "releaseDate" : "May 2012",
+        "releaseMonth" : "May",
+        "releaseYear" : "2012",
         "tamashiiLink" : "https://tamashiiweb.com/item/11548/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-trunks-sh-figuarts-action-figure/ba73944"
     }
