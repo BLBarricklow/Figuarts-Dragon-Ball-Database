@@ -16,7 +16,7 @@ h1 {
 
 .top-fold {
     border: 1px solid green;
-    max-height: 600px;
+    max-height: 500px;
     display: flex;
     justify-content: space-around;
 }
@@ -33,14 +33,20 @@ h1 {
 .img-container {
     border: 2px solid red;
     width: 45%;
+    text-align: center;
     /* display: inline-block; */
     /* width: 50%; */
+}
+
+.img-container img {
+    display: inline-block;
+    
 }
 
 .main-img {
     max-height: 100%;
     max-width: 100%;
-    object-fit: contain;
+    /* object-fit: contain; */
 }
 
 .info-container {
