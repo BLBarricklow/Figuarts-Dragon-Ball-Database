@@ -37,7 +37,7 @@ const database = [
         "price" : "$35",
         "releaseNum" : 4,
         "releaseType" : "2011 SDCC Event Exclusive",
-        "releaseDate" : "July",
+        "releaseMonth" : "July",
         "releaseYear" : "2011",
         "region" : ["USA"],
         "tamashiiLink" : "Not Available",
