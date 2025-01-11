@@ -3,6 +3,15 @@
     font-weight: 600;
 }
 
+.figure-list-container {
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.figure-list {
+    list-style: none;
+}
+
 .figure-info {
     border: 1px solid pink;
     width: clamp(300px, 60%, 1200px);
