@@ -66,3 +66,9 @@ h1 {
     /* background-color: lightgrey; */
     /* width: 40%; */
 }
+
+.autofill-list {
+    border: 1px solid red;
+    list-style-position: outside;
+    list-style-type: none;
+}
