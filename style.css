@@ -67,8 +67,15 @@ h1 {
     /* width: 40%; */
 }
 
+.autofill-list-container {
+    border: 1px solid green;
+    text-align: center;
+}
+
 .autofill-list {
+    display: inline-block;
     border: 1px solid red;
     list-style-position: outside;
     list-style-type: none;
+    text-align: left;
 }
