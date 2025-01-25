@@ -7,6 +7,7 @@ const database = [
         "releaseMonth" : "November",
         "releaseYear" : "2009",
         "region" : ["Japan"],
+        "pagelink" : "001-piccolo.html",
         "tamashiiLink" : "https://tamashiiweb.com/item/1172/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-piccolo-sh-figuarts-action-figure/ba59914"
     },
@@ -18,6 +19,7 @@ const database = [
         "releaseMonth" : "January",
         "releaseYear" : "2010",
         "region" : ["Japan"],
+        "pagelink" : "002-super-saiyan-son-goku.html",
         "tamashiiLink" : "https://tamashiiweb.com/item/1216/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-super-saiyan-goku-sh-figuarts-action-figure/ba59912"
     },
@@ -29,6 +31,7 @@ const database = [
         "releaseMonth" : "July",
         "releaseYear" : "2010",
         "region" : ["Japan"],
+        "pagelink" : "003-super-saiyan-son-gohan.html",
         "tamashiiLink" : "https://tamashiiweb.com/item/1216/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-son-gohan-sh-figuarts-action-figure/ba61922"
     },
@@ -40,6 +43,7 @@ const database = [
         "releaseMonth" : "July",
         "releaseYear" : "2011",
         "region" : ["USA"],
+        "pagelink" : "004-super-saiyan-son-goku-event-2011.html",
         "tamashiiLink" : "Not Available",
         "eeLink" : "Not Available"
     },
@@ -51,6 +55,7 @@ const database = [
         "releaseMonth" : "December",
         "releaseYear" : "2011",
         "region" : ["Japan"],
+        "pagelink" : "005-super-saiyan-vegeta.html",
         "tamashiiLink" : "Not Available",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-super-saiyan-vegeta-sh-figuarts-figure/ba62466"
     },
@@ -62,6 +67,7 @@ const database = [
         "releaseMonth" : "May",
         "releaseYear" : "2012",
         "region" : ["Japan"],
+        "pagelink" : "006-trunks.html",
         "tamashiiLink" : "https://tamashiiweb.com/item/11548/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-trunks-sh-figuarts-action-figure/ba73944"
     },
@@ -73,6 +79,7 @@ const database = [
         "releaseMonth" : "July",
         "releaseYear" : "2012",
         "region" : ["USA"],
+        "pagelink" : "007-super-saiyan-son-gohan-event-2012.html",
         "tamashiiLink" : "Not Available",
         "eeLink" : "Not Available"
     },
@@ -84,6 +91,7 @@ const database = [
         "releaseMonth" : "November",
         "releaseYear" : "2012",
         "region" : ["Japan"],
+        "pagelink" : "008-perfect-cell.html",
         "tamashiiLink" : "https://tamashiiweb.com/item/10088/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragonball-z-perfect-cell-sh-figuarts-action-figure/ba73945?srsltid=AfmBOopmE5RFtd8vFEPaHJofYpQ3SNIVYPb0sOuNWMfyMz2Bn7GMMSGC"
     },
@@ -95,6 +103,7 @@ const database = [
         "releaseMonth" : "May",
         "releaseYear" : "2013",
         "region" : ["Japan"],
+        "pagelink" : "009-vegeta.html",
         "tamashiiLink" : "https://tamashiiweb.com/item/10221/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-seiyan-vegeta-sh-figuarts-action-figure/ba77459?srsltid=AfmBOoo4QX-X-KEKiXmAJvOjuxCmDAyNYdjs_NJpqL9l6x28lAP_WtRB"
     },
@@ -106,6 +115,7 @@ const database = [
         "releaseMonth" : "July",
         "releaseYear" : "2013",
         "region" : ["Japan"],
+        "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/10271/?wovn=en",
         "eeLink" : ""
     },
@@ -117,6 +127,7 @@ const database = [
         "releaseMonth" : "July",
         "releaseYear" : "2013",
         "region" : ["USA"],
+        "pagelink" : "",
         "tamashiiLink" : "Not Available",
         "eeLink" : "Not Available"
     },
@@ -128,6 +139,7 @@ const database = [
         "releaseMonth" : "November",
         "releaseYear" : "2013",
         "region" : ["Japan"],
+        "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/10395/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-krillin-sh-figuarts-action-figure/ba80571?srsltid=AfmBOorH1ap02zFEnwkwphQXaBfweM0pHWlQ5xlHM7Uyc9krmZsyvHha"
     }
@@ -140,6 +152,7 @@ const database = [
         "releaseMonth" : "",
         "releaseYear" : "",
         "region" : [],
+        "pagelink" : "",
         "tamashiiLink" : "",
         "eeLink" : ""
     }
