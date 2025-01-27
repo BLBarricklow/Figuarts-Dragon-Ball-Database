@@ -115,7 +115,7 @@ const database = [
         "releaseMonth" : "July",
         "releaseYear" : "2013",
         "region" : ["Japan"],
-        "pagelink" : "",
+        "pagelink" : "010-final-form-frieza.html",
         "tamashiiLink" : "https://tamashiiweb.com/item/10271/?wovn=en",
         "eeLink" : ""
     },
