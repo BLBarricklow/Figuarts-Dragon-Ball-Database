@@ -141,7 +141,19 @@ const database = [
         "region" : ["Japan"],
         "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/10395/?wovn=en",
-        "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-krillin-sh-figuarts-action-figure/ba80571?srsltid=AfmBOorH1ap02zFEnwkwphQXaBfweM0pHWlQ5xlHM7Uyc9krmZsyvHha"
+        "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-krillin-sh-figuarts-action-figure/ba80571?srsltid=AfmBOorH1ap02zFEnwkwphQXaBfweM0pHWlQ5xlHM7Uyc9krmZsyvHha",
+    },
+    {
+        "name" : "Son Goku",
+        "price" : "$40.99",
+        "releaseNum" : 13,
+        "releaseType" : "Premium Bandai",
+        "releaseMonth" : "April",
+        "releaseYear" : "2014",
+        "region" : ["Japan"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashii.jp/item/10508/",
+        "eeLink" : ""
     }
     /*
     {
