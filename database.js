@@ -155,6 +155,18 @@ const database = [
         "tamashiiLink" : "https://tamashii.jp/item/10508/",
         "eeLink" : ""
     }
+    {
+        "name" : "Android 18",
+        "price" : "$38.99",
+        "releaseNum" : 14,
+        "releaseType" : "Premium Bandai",
+        "releaseMonth" : "June",
+        "releaseYear" : "2014",
+        "region" : ["Japan"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashiiweb.com/item/10595/?wovn=en",
+        "eeLink" : ""
+    }
     /*
     {
         "name" : "",
