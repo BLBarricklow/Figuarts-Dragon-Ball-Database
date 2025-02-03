@@ -154,7 +154,7 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "https://tamashii.jp/item/10508/",
         "eeLink" : ""
-    }
+    },
     {
         "name" : "Android 18",
         "price" : "$38.99",
@@ -166,6 +166,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/10595/?wovn=en",
         "eeLink" : ""
+    },
+    {
+        "name" : "Vegeta (Original Animation Color Edition)",
+        "price" : "$39.99",
+        "releaseNum" : 15,
+        "releaseType" : "2014 SDCC Event Exclusive",
+        "releaseMonth" : "July",
+        "releaseYear" : "2014",
+        "region" : ["USA"],
+        "pagelink" : "",
+        "tamashiiLink" : "Not Available",
+        "eeLink" : "Not Available"
     }
     /*
     {
