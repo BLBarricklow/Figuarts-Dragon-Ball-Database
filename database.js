@@ -178,6 +178,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "Not Available",
         "eeLink" : "Not Available"
+    },
+    {
+        "name" : "Android 17",
+        "price" : "$39.99",
+        "releaseNum" : 16,
+        "releaseType" : "Premium Bandai",
+        "releaseMonth" : "October",
+        "releaseYear" : "2014",
+        "region" : ["Japan"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashiiweb.com/item/10656/?wovn=en",
+        "eeLink" : ""
     }
     /*
     {
