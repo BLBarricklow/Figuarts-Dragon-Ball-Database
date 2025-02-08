@@ -190,6 +190,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/10656/?wovn=en",
         "eeLink" : ""
+    },
+    {
+        "name" : "Broly",
+        "price" : "$67.99",
+        "releaseNum" : 17,
+        "releaseType" : "Premium Bandai",
+        "releaseMonth" : "November",
+        "releaseYear" : "2014",
+        "region" : ["Japan"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashiiweb.com/item/10744/?wovn=en",
+        "eeLink" : ""
     }
     /*
     {
