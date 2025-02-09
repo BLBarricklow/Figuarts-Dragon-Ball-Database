@@ -202,6 +202,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/10744/?wovn=en",
         "eeLink" : ""
+    },
+    {
+        "name" : "Android 16",
+        "price" : "$61.99",
+        "releaseNum" : 18,
+        "releaseType" : "Premium Bandai",
+        "releaseMonth" : "February",
+        "releaseYear" : "2015",
+        "region" : ["January"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashiiweb.com/item/10808/?wovn=en",
+        "eeLink" : ""
     }
     /*
     {
