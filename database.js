@@ -127,7 +127,7 @@ const database = [
         "releaseMonth" : "July",
         "releaseYear" : "2013",
         "region" : ["USA"],
-        "pagelink" : "",
+        "pagelink" : "011-piccolo-event-2013.html",
         "tamashiiLink" : "Not Available",
         "eeLink" : "Not Available"
     },
