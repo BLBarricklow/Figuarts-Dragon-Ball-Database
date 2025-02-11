@@ -214,6 +214,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/10808/?wovn=en",
         "eeLink" : ""
+    },
+    {
+        "name" : "Vegetto",
+        "price" : "$39.99",
+        "releaseNum" : 19,
+        "releaseType" : "Premium Bandai",
+        "releaseMonth" : "April",
+        "releaseYear" : "2015",
+        "region" : ["Japan"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashiiweb.com/item/10861/?wovn=en",
+        "eeLink" : ""
     }
     /*
     {
