@@ -139,7 +139,7 @@ const database = [
         "releaseMonth" : "November",
         "releaseYear" : "2013",
         "region" : ["Japan"],
-        "pagelink" : "",
+        "pagelink" : "012-klilyn.html",
         "tamashiiLink" : "https://tamashiiweb.com/item/10395/?wovn=en",
         "eeLink" : "https://www.entertainmentearth.com/product/dragon-ball-z-krillin-sh-figuarts-action-figure/ba80571?srsltid=AfmBOorH1ap02zFEnwkwphQXaBfweM0pHWlQ5xlHM7Uyc9krmZsyvHha",
     },
