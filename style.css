@@ -79,3 +79,7 @@ h1 {
     list-style-type: none;
     text-align: left;
 }
+
+.autolist-item {
+    line-height: 1.5rem;
+}
