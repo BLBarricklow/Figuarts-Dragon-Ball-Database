@@ -226,6 +226,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/10861/?wovn=en",
         "eeLink" : ""
+    },
+    {
+        "name" : "Son Goku -for Galeria Tamashii Nations Mexico 2015-",
+        "price" : "$45",
+        "releaseNum" : 20,
+        "releaseType" : "Galeria Tamashii Nations Mexico 2015",
+        "releaseMonth" : "June",
+        "releaseYear" : "2015",
+        "region" : ["Mexico"],
+        "pagelink" : "",
+        "tamashiiLink" : "",
+        "eeLink" : ""
     }
     /*
     {
