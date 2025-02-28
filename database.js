@@ -238,6 +238,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "",
         "eeLink" : ""
+    },
+    {
+        "name" : "Son Goku -Frieza Saga Ver.-",
+        "price" : "$45",
+        "releaseNum" : 21,
+        "releaseType" : "2015 SDCC Event Exclusive",
+        "releaseMonth" : "July",
+        "releaseYear" : "2015",
+        "region" : ["USA"],
+        "pagelink" : "",
+        "tamashiiLink" : "",
+        "eeLink" : ""
     }
     /*
     {
