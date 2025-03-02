@@ -250,6 +250,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "",
         "eeLink" : ""
+    },
+    {
+        "name" : "Ultimate Son Gohan",
+        "price" : "$35.99",
+        "releaseNum" : 22,
+        "releaseType" : "Premium Bandai",
+        "releaseMonth" : "September",
+        "releaseYear" : "2015",
+        "region" : ["Japan"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashiiweb.com/item/11006/?wovn=en",
+        "eeLink" : ""
     }
     /*
     {
