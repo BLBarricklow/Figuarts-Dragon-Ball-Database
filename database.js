@@ -151,7 +151,7 @@ const database = [
         "releaseMonth" : "April",
         "releaseYear" : "2014",
         "region" : ["Japan"],
-        "pagelink" : "",
+        "pagelink" : "013-son-goku.html",
         "tamashiiLink" : "https://tamashii.jp/item/10508/",
         "eeLink" : ""
     },
