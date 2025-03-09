@@ -262,6 +262,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/11006/?wovn=en",
         "eeLink" : ""
+    },
+    {
+        "name" : "Super Saiyan God SS (Super Saiyan) Gokou",
+        "price" : "$39.99",
+        "releaseNum" : 23,
+        "releaseType" : "Premium Bandai",
+        "releaseMonth" : "October",
+        "releaseYear" : "2015",
+        "region" : ["Japan"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashiiweb.com/item/11002/?wovn=en",
+        "eeLink" : ""
     }
     /*
     {
