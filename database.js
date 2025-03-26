@@ -274,6 +274,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/11002/?wovn=en",
         "eeLink" : ""
+    },
+    {
+        "name" : "Golden Frieza",
+        "price" : "$39.99",
+        "releaseNum" : 24,
+        "releaseType" : "Premium Bandai",
+        "releaseMonth" : "October",
+        "releaseYear" : "2015",
+        "region" : ["Japan"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashiiweb.com/item/11001/?wovn=en",
+        "eeLink" : ""
     }
     /*
     {
