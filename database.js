@@ -286,6 +286,18 @@ const database = [
         "pagelink" : "",
         "tamashiiLink" : "https://tamashiiweb.com/item/11001/?wovn=en",
         "eeLink" : ""
+    },
+    {
+        "name" : "Super Saiyan Son Goku Super Warrior Awakening Ver.",
+        "price" : "$46.99",
+        "releaseNum" : 25,
+        "releaseType" : "Retail",
+        "releaseMonth" : "November",
+        "releaseYear" : "2015",
+        "region" : ["Japan"],
+        "pagelink" : "",
+        "tamashiiLink" : "https://tamashiiweb.com/item/11063/?wovn=en",
+        "eeLink" : ""
     }
     /*
     {
