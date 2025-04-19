@@ -9,5 +9,3 @@ document.querySelector('#info-list').innerHTML += "<li>" + "Release Date: " + re
 document.querySelector('#info-list').innerHTML += "<li>" + "Price: (USA) " + price + "</li>";
 document.querySelector('#info-list').innerHTML += "<li>" + "Release Type: " + salesType + "</li>";
 document.querySelector('#info-list').innerHTML += "<li>" + "Regions: " + regions.join(", ");
-
-//console.log(salesType)
